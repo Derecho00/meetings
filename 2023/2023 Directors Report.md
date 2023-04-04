@@ -2,9 +2,10 @@ Directors Report 2021-2023
 ----------------
 
 ## 0) State of the Membership
-We have 19 members on the books, 7 dismemberment emails have been sent and this has resulted in some members coming back into the fold.
-Incoming Directors shall need to have a board meeting to finalise dismemberment following AGM.  
-We currently have 12 members paying regularly, resulting in a monthly income of £240.
+- We currently have 19 members on our register
+- We have 12  memberspaying regularly, resulting in a monthly income of £240.
+- 7 dismemberment emails have been sent and this has resulted in some members coming back into the fold.
+- Incoming Directors shall need to have a board meeting to finalise dismemberment following AGM.  
 
 ## 1) 'Post pandemic' activities
 Winter party 2022 was a roaring success. Thanks go to Q for making it so busy and inviting their friends who helped remind some of us why running a hackerspace is such good fun.
